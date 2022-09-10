@@ -1,14 +1,10 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Offcanvas from 'react-bootstrap/Offcanvas';
 import * as React from 'react';
 import DarkButton from './DarkBtn'
 
 
-function getData()
-{
-  return "Toli";  
-}
+
 
 
 function App() {
